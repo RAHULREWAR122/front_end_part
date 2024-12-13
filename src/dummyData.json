@@ -1,0 +1,10 @@
+{
+  "userRegistrations": [
+    { "month": "January", "registrations": 50 ,"active" :300 , "inactive" :100 ,"region": "North America", "count": 200},
+    { "month": "February", "registrations": 70 ,"active" :260 , "inactive" :140,"region": "Europe", "count": 160  },
+    { "month": "March", "registrations": 60 ,"active" :340 , "inactive" :60 , "region": "Asia", "count": 120 },
+    { "month": "April", "registrations": 90 ,"active" :320 , "inactive" :80 , "region": "Africa", "count": 90  },
+    { "month": "May", "registrations": 120 ,"active" :350 , "inactive" :50 ,"region": "South America", "count": 70},
+    { "month": "June", "registrations": 110 ,"active" :370 , "inactive" :30 , "region": "South Asia", "count": 120}
+  ] 
+}
